@@ -120,15 +120,7 @@ button a{
 
 
 
-@media screen and (max-width: 992px){
-  .navbar-toggler{
-    display: block;
-  }
-  .navbar-nav{
-    justify-content: start;
-    flex-direction: column;
-  }
-}
+
 
 
 
